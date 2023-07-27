@@ -6,9 +6,9 @@
 </h1>
 
 <p>
-  <img src="https://img.shields.io/badge/made%20by-RAFAEL%20MARTINS-04cc5e?style=flat-square">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/martins-rafael/launchstore?color=04cc5e&style=flat-square">
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/martins-rafael/launchstore?color=04cc5e&style=flat-square">
+  <img src="https://img.shields.io/badge/made%20by-Renato%20Lucena-04cc5e?style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Lucena-Renato/launchstore?color=04cc5e&style=flat-square">
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/Lucena-Renato/launchstore?color=04cc5e&style=flat-square">
   <a href="https://opensource.org/licenses/MIT">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-04cc5e?style=flat-square">
   </a>
@@ -117,7 +117,7 @@ Siga os passos abaixo:
 
 ```bash
 # Abra um terminal e copie este repositório com o comando
-$ git clone https://github.com/martins-rafael/launchstore.git
+$ git clone https://github.com/Lucena-Renato/launchstore.git
 # ou use a opção de download.
 
 # Entre na pasta com
@@ -156,10 +156,10 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para m
 
 ---
 
-Feito com :purple_heart: by [Rafael Martins](https://github.com/martins-rafael)
+Feito com :purple_heart: by [Renato Lucena](https://github.com/lucenarenato)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaeldcmartins/)](https://www.linkedin.com/in/rafaeldcmartins/)
-[![Gmail Badge](https://img.shields.io/badge/-rafaeldcmartins@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaeldcmartins@gmail.com)](mailto:rafaeldcmartins@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Renato%20Lucena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renato-lucena-33777133/)](https://www.linkedin.com/in/renato-lucena-33777133/)
+[![Gmail Badge](https://img.shields.io/badge/-cpdrenato@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cpdrenato@gmail.com)](mailto:cpdrenato@gmail.com)
 
 
   "scripts": {
